@@ -13,7 +13,7 @@ class TestCredential(unittest.TestCase):
 
         self.assertEqual(self.new_credential.credential_name,"Eid")
         self.assertEqual(self.new_credential.user_name,"Eid")
-        self.assertEqual(self.new_credential.password,"12345a")
+        self.assertEqual(self.new_credential.password,"12345")
         self.assertEqual(self.new_credential.email,"eidabdullahi10@gmail.com")
 
     def test_save_credential(self):

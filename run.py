@@ -59,7 +59,7 @@ def display_credential():
 
 
 def main():
-    print("Hello! Welcome to your Password Locker application. Kindly tell me your name")
+    print("Hello! Welcome to your Password Locker application. Kindly what is your name your name")
     user_name = input()
     print(f"Hello {user_name}, sign up to Password Locker to create an account.")
     print('\n')

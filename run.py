@@ -61,7 +61,7 @@ def display_credential():
 def main():
     print("Hello! Welcome to your Password Locker application. Kindly what is your name your name")
     user_name = input()
-    print(f"Hello {user_name}, sign up to Password Locker to create an account.")
+    print(f"Hello {user_name}, sign up to Password Locker to create a new account.")
     print('\n')
     while True:
         print("Use these known short codes to operate :\n SU -> SIGN UP.\n DA -> Display your account.\n LN ->LOGIN.\n ex ->exit Password Locker. ")

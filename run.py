@@ -140,7 +140,7 @@ def main():
                         
             else:
                 print('\n')
-                print("WRONG PASSWORD!! PLEASE ENTER CORRECT PASSWORD TO LOGIN")
+                print("WRONG PASSWORD!!  ENTER CORRECT PASSWORD TO LOGIN")
                 print('\n')
                 print('\n')
                     

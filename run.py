@@ -145,7 +145,7 @@ def main():
                 print('\n')
                     
         elif short_code == "ex":
-                    print(f"Thanks {user_name} for your time.I hope you enjoyed the service.Bye...")
+                    print(f"Thanks {user_name} for your time.I hope you enjoyed the service.")
                     break
         else:
                     print("What do you mean! Please use the short codes")

@@ -12,7 +12,7 @@ Password Locker is a python application that helps users generate and store pass
 Project-Setup Instructions.
 1.Open your github account and search for github username: Eid Abdullahi
 
-2.In Eid Abdullahi's repositories; git clonethe Password_Locker repository into your local repository using the following link: https://github.com/EidAbdullahi/Password-Locker.git
+2.In Eid Abdullahi's repositories; git clonethe Password_Locker repository into your local repository using the following link: https://github.com/EidAbdullahi/Password-Locker.git.
 
 3.Open your terminal and run the command ./run.py and use the short codes illustrated to operate....
 

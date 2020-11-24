@@ -119,11 +119,11 @@ def main():
                         pwd = input(f"{credential_name} password:")
                         save_credential(create_credential(credential_name,user_name,pwd,e_address))
                         print('\n')
-                        print(f"A New {credential_name} Account with the user name  {usr_name} has been created.")
+                        print(f"A New {credential_name} Account with the user name  {user_name} has been created.")
                         print ('\n')
                     elif short_code == 'dc':
                          if display_credential():
-                             print("Here is your credential")
+                             print("Here is your credential.")
                              print('\n')
                              for credential in display_credential():
                                  print(f"Credential name:{credential.credential_name}  User name: {credential.user_name} Password:{credential.password}")
